@@ -1,1 +1,2 @@
-WPF-Apps
+# WPF-Apps
+## Developer: Tristen Smith
