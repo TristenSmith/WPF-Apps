@@ -5,5 +5,5 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp_Basics"
         mc:Ignorable="d"
-        Title="WPF-Basics" Height="350" Width="500">
+        Title="WPF-Basics" Height="980" Width="1720" Source="Basics.xaml">
 </NavigationWindow>
